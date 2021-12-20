@@ -1,3 +1,2 @@
 # Algorithms-and-Data-Structures-training---IEEE-CS-ZSB
-submitting solved problems
-
+this was IEEE training to get our hand dirty. 
